@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "StrangeLove Coffee",
+    "imgUrl": "https://picsum.photos/200/300?random=1",
+    "address": "983 Queen St E, Toronto, ON M4M 1K2",
+    "neighbourhood": "at King and Spadina"
+  },
+  {
+    "id": 1,
+    "name": "Dark Horse Coffee",
+    "imgUrl": "https://picsum.photos/200/300?random=2",
+    "address": "401 Richmond St W",
+    "neighbourhood": "Richmond and Spadina"
+  },
+  {
+    "id": 300,
+    "name": "Route 300",
+    "imgUrl": "https://picsum.photos/200/300?random=3",
+    "address": "401 Richmond St W",
+    "neighbourhood": "Route 300 Neighbourhood"
+  }
+]
